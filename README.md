@@ -5,5 +5,3 @@
 ### 依赖库：
 ###       libchardet
 ###       libiconv
-### 详细说明请见：
-###       http://www.mymoonshine.info/?p=440
